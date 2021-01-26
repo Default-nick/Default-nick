@@ -20,9 +20,9 @@
   <br>
   Recently, I studied front-end programming in a professional capacitation. 
   <br>
-  I know, there is much more that i need to learn, but this is my start point.
+  I know, there is much more that I need to learn, but this is my start point, and I'm very proud of that.
   <br>
-  I can't do everything, but surely, i'll try. 😄
+  I can't do everything, but surely, I'll try. 😄
 </p>
 <br>
 
