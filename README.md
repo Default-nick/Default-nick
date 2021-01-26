@@ -1,16 +1,68 @@
-### Hi there 👋
+<h1 align="center"> Hello there :duck: </h1>
 
-<!--
-**Default-nick/Default-nick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="center">
+    About 
+  </h3>
+<br>
+<p align="center">
+ - Learning : Vuejs 💻 | Angular 💻| React 💻
+  <br>
+ - Hobbies : Series 📺 | Games 🎮 | Music 🎧
+</p>
+<br>
+<h3 align="center">
+    Description 
+  </h3>
+<br>
+<p align="center">
+ My name is Leandro Alves, 26 years old, and i'm living in São Paulo, Brazil. 
+  <br>
+  Recently, I studied front-end programming in a professional capacitation. 
+  <br>
+  I know, there is much more that i need to learn, but this is my start point.
+  <br>
+  I can't do everything, but surely, i'll try. 😄
+</p>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/Default-nick">
+    <img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" width="280px" height="210px"/>
+  </a>
+</p>
+
+<br>
+ <h3 align="center"> 
+   Knowledge
+ </h3>
+<br>
+<p align="center">
+ <a href="https://reactjs.org">
+   <img src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png" alt="react" width="80px" height="80px" style="vertical-align:top; margin:6px 4px" />
+  </a>
+  
+  <a href="https://angular.io">
+   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/21_Angular-512.png" alt="angular" width="80px" height="80px" style="vertical-align:top; margin:6px 4px">
+  </a>
+  
+  <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">
+   <img src="https://img.icons8.com/color/452/bootstrap.png" alt="bootstrap" width="80px" height="80px" style="vertical-align:top; margin:6px 4px">
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+   <img src="https://www.devexhub.com/wp-content/uploads/2019/12/javascript-icon-png-23.png" alt="javascript" width="80px" height="80px" style="vertical-align:top; margin:6px 4px">
+   
+  <a href="https://git-scm.com">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="git" width="80px" height="80px" style="vertical-align:top; margin:6px 4px">
+</p>
+
+  <h3 align="center">
+    Programming Status
+  </h3>
+<p align="center">
+  <a href="https://github.com/Default-nick/website%22%3E">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Default-nick&show_icons=true&theme=dark&layout=compact" />
+  </a>
+  <br>
+</p>
+
