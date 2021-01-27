@@ -68,5 +68,12 @@
 </p>
 <br>
 <br>
-<p align="left"><i><s>The duck is an easter egg!</i></s>
+<p align="center">
+    <i>
+        <s>
+            The duck is an easter egg!
+        </s>
+    </i>
+</p>
+        
 
