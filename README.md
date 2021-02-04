@@ -6,7 +6,7 @@
   </h3>
 <br>
 <p align="center">
- - Learning : Vuejs 💻 | Angular 💻| React 💻
+ - Learning : Angular 💻| React 💻
   <br>
  - Hobbies : Series 📺 | Games 🎮 | Music 🎧
 </p>
