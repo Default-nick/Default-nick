@@ -1,6 +1,5 @@
 <h1 align="center"> Hello there <a href="https://www.linkedin.com/in/le-alves" target=_blank>:duck:</a></h1>
 
-
 <h3 align="center">
     About 
   </h3>
