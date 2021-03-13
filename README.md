@@ -38,21 +38,21 @@
  </h3>
 <br>
 <p align="center">
- <a href="https://reactjs.org">
+ <a href="https://reactjs.org" style="text-decoration: none">
    <img src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png" alt="react" width="80px" height="80px" style="vertical-align:top; margin:6px 4px" />
   </a>
   
-  <a href="https://angular.io">
+  <a href="https://angular.io" style="text-decoration: none">
    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/21_Angular-512.png" alt="angular" width="80px" height="80px" style="vertical-align:top; margin:6px 4px">
   </a>
   
-  <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">
+  <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" style="text-decoration: none">
    <img src="https://img.icons8.com/color/452/bootstrap.png" alt="bootstrap" width="80px" height="80px" style="vertical-align:top; margin:6px 4px">
   
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration: none">
    <img src="https://www.devexhub.com/wp-content/uploads/2019/12/javascript-icon-png-23.png" alt="javascript" width="80px" height="80px" style="vertical-align:top; margin:6px 4px">
    
-  <a href="https://git-scm.com">
+  <a href="https://git-scm.com" style="text-decoration: none">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="git" width="80px" height="80px" style="vertical-align:top; margin:6px 4px">
 </p>
 
