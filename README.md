@@ -60,12 +60,12 @@
     Programming Status
   </h3>
 <p align="center">
-  <a href="https://github.com/Default-nick/website">
+  <a href="https://github.com/Default-nick/">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Default-nick&show_icons=true&theme=dark&layout=compact" />
   </a>
     <br>
     <br>
-    <a href="https://github.com/Default-nick/website">
+    <a href="https://github.com/Default-nick/">
   <img src="https://github-readme-stats.vercel.app/api?username=Default-nick&show_icons=true&count_private=true&include_all_commits=true&theme=dark" />
     </a>
   <br>
