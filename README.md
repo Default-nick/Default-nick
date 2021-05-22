@@ -66,7 +66,7 @@
     <br>
     <br>
     <a href="https://github.com/Default-nick/website">
-  <img src="https://github-readme-stats.vercel.app/api?username=Default-nick&show_icons=true&count_private=true&theme=dark&show=stars,commits,prs,issues,contribs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Default-nick&show_icons=true&include_all_commits=true&theme=dark" />
     </a>
   <br>
 </p>
