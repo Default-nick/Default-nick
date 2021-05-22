@@ -68,6 +68,9 @@
     <a href="https://github.com/Default-nick/">
   <img src="https://github-readme-stats.vercel.app/api?username=Default-nick&show_icons=true&count_private=true&include_all_commits=true&theme=dark" />
     </a>
+
+                                                                                                                                                    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Default-nick)](https://github.com/anuraghazra/github-readme-stats)
+                                                                                                                                                    
   <br>
 </p>
 <br>
