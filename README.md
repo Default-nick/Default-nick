@@ -37,7 +37,7 @@
    Knowledge
  </h3>
 <br>
-<marquee align="center" style="width: 50%>
+<p align="center" style="width: 50%>
  <a href="https://reactjs.org">
    <img src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png" alt="react" width="80px" height="80px" style="vertical-align:top; margin:6px 4px" />
   </a>
@@ -54,7 +54,7 @@
    
   <a href="https://git-scm.com">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="git" width="80px" height="80px" style="vertical-align:top; margin:6px 4px">
-</marquee>
+</p>
 
   <h3 align="center">
     Programming Status
