@@ -37,7 +37,7 @@
    Knowledge
  </h3>
 <br>
-<p align="center">
+<p align="center" style="width: 50%, border: red 2px solid">
  <a href="https://reactjs.org">
    <img src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png" alt="react" width="80px" height="80px" style="vertical-align:top; margin:6px 4px" />
   </a>
