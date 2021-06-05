@@ -4,18 +4,18 @@
     About 
   </h3>
 <br>
-<p align="center">
+<span align="center">
     
         - Learning : Angular 💻| React 💻
   
         - Hobbies : Series 📺 | Games 🎮 | Music 🎧
-</p>
+</span>
 <br>
 <h3 align="center">
     Description 
   </h3>
 <br>
-<p align="center">
+<span align="center">
  My name is Leandro Alves, 26 years old, and i'm living in São Paulo, Brazil. 
   <br>
   Recently, I studied front-end programming in a professional capacitation. 
@@ -24,7 +24,7 @@
   <br>
   <br>
   I can't do everything, but surely, I'll try. 😄
-</p>
+</span>
 <br>
 
 <p align="center">
