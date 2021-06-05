@@ -6,9 +6,9 @@
 <br>
 <span align="center">
     
-        - Learning : Angular 💻| React 💻
+        * Learning : Angular 💻| React 💻
   
-        - Hobbies : Series 📺 | Games 🎮 | Music 🎧
+        * Hobbies : Series 📺 | Games 🎮 | Music 🎧
 </span>
 <br>
 <h3 align="center">
