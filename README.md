@@ -5,9 +5,11 @@
   </h3>
 <br>
 <p align="center">
- - Learning : Angular 💻| React 💻
+    <ul>
+        <li> Learning : Angular 💻| React 💻</li>
   <br>
- - Hobbies : Series 📺 | Games 🎮 | Music 🎧
+        <li> Hobbies : Series 📺 | Games 🎮 | Music 🎧</li>
+        </ul>
 </p>
 <br>
 <h3 align="center">
