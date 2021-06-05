@@ -7,8 +7,9 @@
 <p align="center">
     
         - Learning : Angular 💻| React 💻
-  <br>
+  
         - Hobbies : Series 📺 | Games 🎮 | Music 🎧
+    <br>
 
 </p>
 <br>
