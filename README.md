@@ -4,7 +4,7 @@
     About 
   </h3>
 <br>
-<h4 align="center">
+<h4>
     
         - Learning : Angular 💻| React 💻
   
