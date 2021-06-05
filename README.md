@@ -4,13 +4,13 @@
     About 
   </h3>
 <br>
-<p align="center">
+<div width="50%">
     <ul>
         <li> Learning : Angular 💻| React 💻</li>
   <br>
         <li> Hobbies : Series 📺 | Games 🎮 | Music 🎧</li>
         </ul>
-</p>
+</div>
 <br>
 <h3 align="center">
     Description 
