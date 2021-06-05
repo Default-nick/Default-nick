@@ -15,7 +15,7 @@
     Description 
   </h3>
 <br>
-<span align="center">
+<p align="center">
  My name is Leandro Alves, 26 years old, and i'm living in São Paulo, Brazil. 
   <br>
   Recently, I studied front-end programming in a professional capacitation. 
@@ -24,7 +24,7 @@
   <br>
   <br>
   I can't do everything, but surely, I'll try. 😄
-</span>
+</p>
 <br>
 
 <p align="center">
