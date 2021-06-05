@@ -4,12 +4,12 @@
     About 
   </h3>
 <br>
-<h4>
+<p align="center">
     
         - Learning : Angular 💻| React 💻
   
         - Hobbies : Series 📺 | Games 🎮 | Music 🎧
-</h4>
+</p>
 <br>
 <h3 align="center">
     Description 
