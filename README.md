@@ -51,7 +51,7 @@
    <img title="Bootstrap" src="https://img.icons8.com/color/452/bootstrap.png" alt="bootstrap" width="50px" height="50px" style="vertical-align:top; margin:6px 4px">
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-   <img title="JavaScript" src="https://www.devexhub.com/wp-content/uploads/2019/12/javascript-icon-png-23.png" alt="javascript" width="50px" height="50px" style="vertical-align:top; margin:6px 4px">
+   <img title="JavaScript" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="50px" height="50px" style="vertical-align:top; margin:6px 4px">
    
   <a href="https://git-scm.com">
    <img title="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="git" width="50px" height="50px" style="vertical-align:top; margin:6px 4px">
