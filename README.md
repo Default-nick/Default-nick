@@ -1,4 +1,4 @@
-<h1 align="center"> Hello there <a title="Quack!" href="https://www.linkedin.com/in/le-alves" target=_blank>:duck:</a></h1>
+<h1 align="center"> Hello there <a title="Quack!" href="https://www.linkedin.com/in/le-alves" target="_blank">:duck:</a></h1>
 
 <h3 align="center">
     About 
@@ -43,26 +43,26 @@
 <p align="center" style="width: 50%>
 <a href="https://www.typescriptlang.org"></a>
                                         
-<a href="https://www.typescriptlang.org">
-   <img title="Typescript" target="_blank" src="https://appmasters.io/static/typescript-logo-26cc95f255ccb936d154b43614f61602.png" alt="typescript" width="50px" height="50px" style="vertical-align:top; margin:6px 4px" />
+<a href="https://www.typescriptlang.org" target="_blank">
+   <img title="Typescript"  src="https://appmasters.io/static/typescript-logo-26cc95f255ccb936d154b43614f61602.png" alt="typescript" width="50px" height="50px" style="vertical-align:top; margin:6px 4px" />
   </a>             
                          
- <a href="https://reactjs.org">
-   <img title="React" target="_blank" src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png" alt="react" width="50px" height="50px" style="vertical-align:top; margin:6px 4px" />
+ <a href="https://reactjs.org" target="_blank">
+   <img title="React" src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png" alt="react" width="50px" height="50px" style="vertical-align:top; margin:6px 4px" />
   </a>
   
-  <a href="https://angular.io">
-   <img title="Angular" target="_blank" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/21_Angular-512.png" alt="angular" width="50px" height="50px" style="vertical-align:top; margin:6px 4px">
+  <a href="https://angular.io" target="_blank">
+   <img title="Angular" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/21_Angular-512.png" alt="angular" width="50px" height="50px" style="vertical-align:top; margin:6px 4px">
   </a>
   
-  <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">
-   <img title="Bootstrap" target="_blank" src="https://img.icons8.com/color/452/bootstrap.png" alt="bootstrap" width="50px" height="50px" style="vertical-align:top; margin:6px 4px">
+  <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank">
+   <img title="Bootstrap" src="https://img.icons8.com/color/452/bootstrap.png" alt="bootstrap" width="50px" height="50px" style="vertical-align:top; margin:6px 4px">
   
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-   <img title="JavaScript" target="_blank" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="50px" height="50px" style="vertical-align:top; margin:6px 4px">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+   <img title="JavaScript" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="50px" height="50px" style="vertical-align:top; margin:6px 4px">
    
-  <a href="https://git-scm.com">
-   <img title="Git" target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="git" width="50px" height="50px" style="vertical-align:top; margin:6px 4px">
+  <a href="https://git-scm.com" target="_blank">
+   <img title="Git"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="git" width="50px" height="50px" style="vertical-align:top; margin:6px 4px">
 </p>
 
   <h3 align="center">
