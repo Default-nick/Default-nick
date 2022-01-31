@@ -39,6 +39,11 @@
  </h3>
 <br>
 <p align="center" style="width: 50%>
+ <a href="https://www.typescriptlang.org">
+   <img title="Typescript" src="https://cdn.iconscout.com/icon/free/png-256/typescript-3629120-3030260.png" alt="Typescript" width="50px" height="50px" style="vertical-align:top; margin:6px 4px" />
+  </a>
+
+<p align="center" style="width: 50%>
  <a href="https://reactjs.org">
    <img title="React" src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png" alt="react" width="50px" height="50px" style="vertical-align:top; margin:6px 4px" />
   </a>
