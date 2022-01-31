@@ -42,6 +42,10 @@
 
 <p align="center" style="width: 50%>
                          
+<a href="https://reactjs.org">
+   <img title="Typescript" target="_blank" src="https://appmasters.io/static/typescript-logo-26cc95f255ccb936d154b43614f61602.png" alt="typescript" width="50px" height="50px" style="vertical-align:top; margin:6px 4px" />
+  </a>             
+                         
  <a href="https://reactjs.org">
    <img title="React" target="_blank" src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png" alt="react" width="50px" height="50px" style="vertical-align:top; margin:6px 4px" />
   </a>
