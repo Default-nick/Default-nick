@@ -41,8 +41,9 @@
  
 
 <p align="center" style="width: 50%>
-                         
-<a href="https://reactjs.org">
+<a href="https://www.typescriptlang.org"></a>
+                                        
+<a href="https://www.typescriptlang.org">
    <img title="Typescript" target="_blank" src="https://appmasters.io/static/typescript-logo-26cc95f255ccb936d154b43614f61602.png" alt="typescript" width="50px" height="50px" style="vertical-align:top; margin:6px 4px" />
   </a>             
                          
