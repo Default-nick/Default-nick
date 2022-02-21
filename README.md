@@ -6,7 +6,7 @@
 <br>
 <span align="center">
     
-        - Learning : React 💻 | Angular 💻 
+        - Learning : React 💻 
   
         - Hobbies : Series 📺 | Games 🎮 | Music 🎧
 </span>
@@ -49,10 +49,6 @@
                          
  <a href="https://reactjs.org" target="_blank">
    <img title="React" src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png" alt="react" width="50px" height="50px" style="vertical-align:top; margin:6px 4px" />
-  </a>
-  
-  <a href="https://angular.io" target="_blank">
-   <img title="Angular" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/21_Angular-512.png" alt="angular" width="50px" height="50px" style="vertical-align:top; margin:6px 4px">
   </a>
   
   <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank">
