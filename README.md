@@ -44,8 +44,12 @@
 <a href="https://github.com"></a>
                                         
 <a href="https://www.typescriptlang.org" target="_blank">
-   <img title="Typescript"  src="https://appmasters.io/static/typescript-logo-26cc95f255ccb936d154b43614f61602.png" alt="typescript" width="50px" height="50px" style="vertical-align:top; margin:6px 4px" />
-  </a>             
+   <img title="Typescript"  src="https://image.spreadshirtmedia.net/image-server/v1/designs/159876789,width=300,height=300,backgroundColor=f2f2f2/typescript-logo.jpg" alt="typescript" width="50px" height="50px" style="vertical-align:top; margin:6px 4px" />
+  </a>
+  
+  <a href="https://mui.com/pt" target="_blank">
+   <img title="MaterialUI"  src="https://mui.com/static/logo.png" alt="materialui" width="50px" height="50px" style="vertical-align:top; margin:6px 4px" />
+  </a>
                          
  <a href="https://reactjs.org" target="_blank">
    <img title="React" src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png" alt="react" width="50px" height="50px" style="vertical-align:top; margin:6px 4px" />
@@ -56,6 +60,10 @@
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
    <img title="JavaScript" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="50px" height="50px" style="vertical-align:top; margin:6px 4px">
+   
+   <a href="https://nextjs.org" target="_blank">
+   <img title="NextJS"  src="https://camo.githubusercontent.com/74cf8e5373ddc049c50a893785fdb1724765bd76975815e58047520f8660ff2b/68747470733a2f2f6432656970397366336f6f3663322e636c6f756466726f6e742e6e65742f746167732f696d616765732f3030302f3030312f3037342f66756c6c2f6e6578746a732e706e67" alt="nextjs" width="50px" height="50px" style="vertical-align:top; margin:6px 4px" />
+  </a>
    
   <a href="https://git-scm.com" target="_blank">
    <img title="Git"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="git" width="50px" height="50px" style="vertical-align:top; margin:6px 4px">
