@@ -1,4 +1,10 @@
 <h1 align="center"> Hello there <a title="Quack!" href="https://www.linkedin.com/in/le-alves" target="_blank">:duck:</a></h1>
+<h3 align="center">
+    
+Visitor's count 
+  </h3>
+<br>
+<p align="center"><img src="https://profile-counter.glitch.me/{Default-nick}/count.svg" alt="Default-nnick :: Visitor's Count" /></p>
 
 <h3 align="center">
     About 
