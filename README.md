@@ -1,4 +1,4 @@
-<h1 align="center"> Hello there <a title="Quack!" href="https://www.linkedin.com/in/le-alves" target="_blank">:duck:</a></h1>
+<h1 align="center"> Hello there <a title="Quack!" href="https://www.linkedin.com/in/defaultnick/" target="_blank">:duck:</a></h1>
 <h3 align="center">
     
 Visitor's count 
@@ -34,7 +34,7 @@ Visitor's count
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/le-alves">
+  <a href="https://www.linkedin.com/in/defaultnick/">
     <img title="Hello m8" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" width="280px" height="210px"/>
   </a>
 </p> 
