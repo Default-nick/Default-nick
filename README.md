@@ -22,7 +22,7 @@ Visitor's count
   </h3>
 <br>
 <p align="center">
- My name is Leandro Alves, 27 years old, and i'm living in São Paulo, Brazil. 
+ My name is Leandro Alves, 28 years old, and i'm living in São Paulo, Brazil. 
   <br>
   Recently, I studied front-end programming in a professional capacitation. 
   <br>
