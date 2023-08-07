@@ -24,9 +24,9 @@ Visitor's count
 <p align="center">
  My name is Leandro Alves, 28 years old, and i'm living in São Paulo, Brazil. 
   <br>
-  Recently, I studied front-end programming in a professional capacitation. 
+  I have 2 years of experience in front-end development in the professional scenario.
   <br>
-  I know, there is much more that I need to learn, but this is my start point, and I'm very proud of that.
+  I know, there is much more that I need to learn, but I'm very proud of my progress.
   <br>
   <br>
   I can't do everything, but surely, I'll try. 😄
