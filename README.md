@@ -12,7 +12,7 @@ Visitor's count
 <br>
 <span align="center">
     
-        - Learning : React 💻 && Typescript 💻
+        - Learning : React 💻 && Angular 💻 && Typescript 💻
   
         - Hobbies : Series 📺 && Games 🎮 && Music 🎧
 </span>
