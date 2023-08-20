@@ -4,7 +4,7 @@
 Visitor's count 
   </h3>
 <br>
-<p align="center">![](https://komarev.com/ghpvc/?username=Default-nick&color=yellow)</p>
+<p align="center">![](https://hit.yhype.me/github/profile?user_id=1849174)</p>
 
 <h3 align="center">
     About 
