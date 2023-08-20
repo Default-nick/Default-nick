@@ -1,4 +1,5 @@
-## Hello my dear friend! <img src="https://github.com/Default-nick/Default-nick/assets/67932981/131234a3-f104-43e5-a8c6-263568515ae5" width="40">
+## Hello my dear friend! <img src="https://github.com/Default-nick/Default-nick/assets/67932981/7a8f429c-c00a-49bf-b394-e7b921e499d4" width="40">
+
 
 My name is Leandro, 28 years old, and i'm living in São Paulo, Brazil.
 I have 2 years of experience in front-end development in the professional scenario.
