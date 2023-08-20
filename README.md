@@ -12,7 +12,7 @@ Feel free to connect with me here:
 ## 📚 Learning
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angularjs&link=https://angular.io)](https://angular.io)
 
-## ⚡ Technologies
+## ⚡ Knowledges
 
 [![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&link=https://react.dev)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&link=https://www.typescriptlang.org)](https://www.typescriptlang.org)
