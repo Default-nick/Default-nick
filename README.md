@@ -1,96 +1,34 @@
-<h1 align="center"> Hello there <a title="Quack!" href="https://www.linkedin.com/in/le-alves/" target="_blank">:duck:</a></h1>
-<h3 align="center">
+## Hello my dear friend! <img src="https://github.com/Default-nick/Default-nick/assets/67932981/131234a3-f104-43e5-a8c6-263568515ae5" width="40">
 
-<h3 align="center">
-    About 
-  </h3>
-<br>
-<span align="center">
-    
-        - Learning : React 💻 && Angular 💻 && Typescript 💻
-  
-        - Hobbies : Series 📺 && Games 🎮 && Music 🎧
-</span>
-<br>
-<h3 align="center">
-    Description 
-  </h3>
-<br>
-<p align="center">
- My name is Leandro Alves, 28 years old, and i'm living in São Paulo, Brazil. 
-  <br>
-  I have 2 years of experience in front-end development in the professional scenario.
-  <br>
-  I know, there is much more that I need to learn, but I'm very proud of my progress.
-  <br>
-  <br>
-  I can't do everything, but surely, I'll try. 😄
-</p>
-<br>
+My name is Leandro, 28 years old, and i'm living in São Paulo, Brazil.
+I have 2 years of experience in front-end development in the professional scenario.
+I know, there is much more that I need to learn, but I'm very proud of my progress.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/le-alves/">
-    <img title="Hello m8" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" width="280px" height="210px"/>
-  </a>
-</p> 
+Feel free to connect with me here:
 
-<br>
- <h3 align="center"> 
-   Knowledge
- </h3>
-<br>
- 
+[![Linkedin Badge](https://img.shields.io/badge/-le_alves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/le-alves/)](https://www.linkedin.com/in/le-alves/)
+[![Gmail Badge](https://img.shields.io/badge/-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lalvesevangelista@gmail.com)](mailto:lalvesevangelista@gmail.com)
 
-<p align="center" style="width: 50%>
-<a href="https://github.com"></a>
-                                        
-<a href="https://www.typescriptlang.org" target="_blank">
-   <img title="Typescript"  src="https://image.spreadshirtmedia.net/image-server/v1/designs/159876789,width=300,height=300,backgroundColor=f2f2f2/typescript-logo.jpg" alt="typescript" width="50px" height="50px" style="vertical-align:top; margin:6px 4px" />
-  </a>
-  
-  <a href="https://mui.com/pt" target="_blank">
-   <img title="MaterialUI"  src="https://mui.com/static/logo.png" alt="materialui" width="50px" height="50px" style="vertical-align:top; margin:6px 4px" />
-  </a>
-                         
- <a href="https://reactjs.org" target="_blank">
-   <img title="React" src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png" alt="react" width="50px" height="50px" style="vertical-align:top; margin:6px 4px" />
-  </a>
-  
-  <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank">
-   <img title="Bootstrap" src="https://img.icons8.com/color/452/bootstrap.png" alt="bootstrap" width="50px" height="50px" style="vertical-align:top; margin:6px 4px">
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-   <img title="JavaScript" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="50px" height="50px" style="vertical-align:top; margin:6px 4px">
-   
-   <a href="https://nextjs.org" target="_blank">
-   <img title="NextJS"  src="https://camo.githubusercontent.com/74cf8e5373ddc049c50a893785fdb1724765bd76975815e58047520f8660ff2b/68747470733a2f2f6432656970397366336f6f3663322e636c6f756466726f6e742e6e65742f746167732f696d616765732f3030302f3030312f3037342f66756c6c2f6e6578746a732e706e67" alt="nextjs" width="50px" height="50px" style="vertical-align:top; margin:6px 4px" />
-  </a>
-   
-  <a href="https://git-scm.com" target="_blank">
-   <img title="Git"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="git" width="50px" height="50px" style="vertical-align:top; margin:6px 4px">
-</p>
+## ⚡ Technologies
 
-  <h3 align="center">
-    Programming Status
-  </h3>
-<p align="center">
-  <a href="https://github.com/Default-nick/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Default-nick&show_icons=true&theme=dark&layout=compact" />
-  </a>
-    <br>
-    <br>
-    <a href="https://github.com/Default-nick/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Default-nick&show_icons=true&count_private=true&include_all_commits=true&theme=dark" />
-    </a>
-                                                                                                                                                    
-  <br>
-</p>
-<br>
-<br>
-<p align="center">
-    <i>
-        <s>
-            The duck is an easter egg!
-        </s>
-    </i>
-</p>
+![React](https://img.shields.io/badge/-React-3f8ca1?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-4098f7?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-9e8f19?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-226122?style=flat-square&logo=Node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![MaterialUi](https://img.shields.io/badge/-MaterialUi-7aabcf?style=flat-square&logo=mui)
+![ChakraUi](https://img.shields.io/badge/-ChakraUi-4bccbd?style=flat-square&logo=chakraui)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm)
+![YARN](https://img.shields.io/badge/-YARN-3ebdf7?style=flat-square&logo=yarn)
+
+
+![BuyMeACoffee](https://img.shields.io/badge/-Buy_me_a_Coffee-black?style=flat-square&logo=buymeacoffee)
+
+![VisitorsCount](https://vbr.wocr.tk/badge?page_id=67932981-badge-reloaded-visitors&lcolor=F7DF1E&color=FFF&style=for-the-badge&logo=openstreetmap&logoColor=181717)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Default-nick&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Default-nick&hide=TeX&layout=compact)
