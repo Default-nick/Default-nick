@@ -1,3 +1,4 @@
+<div align="center">
 ## Hello my dear friend! <a href='https://www.linkedin.com/in/le-alves/' title="Quack" alt="Leandro's LinkedIn" target="_blank" rel="noreferrer"><img src="https://github.com/Default-nick/Default-nick/assets/67932981/7a8f429c-c00a-49bf-b394-e7b921e499d4" width="40"></a>
 
 
@@ -43,4 +44,4 @@ or
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Default-nick&layout=compact&hide=jupyter%20notebook,css,html,vhdl&count_private=true&langs_count=8&theme=radical" alt="Leandro's Top Languages" height="200"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Default-nick&count_private=true&theme=radical" alt="Leandro's streaks" height="175"/>
 
-<br>
+</div>
