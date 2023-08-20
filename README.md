@@ -6,8 +6,9 @@ I know, there is much more that I need to learn, but I'm very proud of my progre
 
 Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-le●alves-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/le-alves/)](https://www.linkedin.com/in/le-alves/)
-[![Gmail Badge](https://img.shields.io/badge/-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lalvesevangelista@gmail.com)](mailto:lalvesevangelista@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Click_me-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/le-alves/)](https://www.linkedin.com/in/le-alves/)
+or
+[![Gmail Badge](https://img.shields.io/badge/-Click_me-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lalvesevangelista@gmail.com)](mailto:lalvesevangelista@gmail.com)
 
 ## 📚 Currently learning
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angularjs&link=https://angular.io)](https://angular.io)
