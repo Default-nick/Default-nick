@@ -25,6 +25,8 @@ Feel free to connect with me here:
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&link=https://docs.github.com/pt)](https://docs.github.com/pt)
 [![MaterialUi](https://img.shields.io/badge/-MaterialUi-007FFF?style=for-the-badge&logo=mui&logoColor=white&link=https://mui.com)](https://mui.com)
 [![ChakraUi](https://img.shields.io/badge/-ChakraUi-319795?style=for-the-badge&logo=chakraui&logoColor=white&link=https://chakra-ui.com/getting-started)](https://chakra-ui.com/getting-started)
+[![MapBox](https://img.shields.io/badge/-MapBox-000000?style=for-the-badge&logo=mapbox&logoColor=white&link=https://docs.mapbox.com)](https://docs.mapbox.com)
+[![GoogleMaps](https://img.shields.io/badge/-GoogleMaps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white&link=https://developers.google.com/maps/documentation/geocoding/start)](https://developers.google.com/maps/documentation/geocoding/start)
 [![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white&link=https://docs.npmjs.com)](https://docs.npmjs.com)
 [![YARN](https://img.shields.io/badge/-YARN-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white&link=https://classic.yarnpkg.com/lang/en/docs/)](https://classic.yarnpkg.com/lang/en/docs/)
 
