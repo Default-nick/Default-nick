@@ -26,7 +26,7 @@ or
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://developer.mozilla.org/en-US/docs/Web/HTML)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://developer.mozilla.org/en-US/docs/Web/CSS)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white&link=https://sass-lang.com/documentation/)](https://sass-lang.com/documentation/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&link=https://getbootstrap.com)](https://getbootstrap.com)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&link=https://getbootstrap.com)](https://getbootstrap.com)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&link=https://git-scm.com/docs/git/pt_BR)](https://git-scm.com/docs/git/pt_BR)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&link=https://docs.github.com/pt)](https://docs.github.com/pt)
 [![MaterialUi](https://img.shields.io/badge/-MaterialUi-007FFF?style=for-the-badge&logo=mui&logoColor=white&link=https://mui.com)](https://mui.com)
