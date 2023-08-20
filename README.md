@@ -23,6 +23,7 @@ or
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&link=https://www.typescriptlang.org)](https://www.typescriptlang.org)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&link=https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white&link=https://nodejs.org/)](https://nodejs.org/)
+[![NextJS](https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=next.js&logoColor=white&link=https://nextjs.org/docs)](https://nextjs.org/docs)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://developer.mozilla.org/en-US/docs/Web/HTML)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://developer.mozilla.org/en-US/docs/Web/CSS)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white&link=https://sass-lang.com/documentation/)](https://sass-lang.com/documentation/)
