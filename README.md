@@ -6,7 +6,7 @@ I know, there is much more that I need to learn, but I'm very proud of my progre
 
 Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-le_alves-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/le-alves/)](https://www.linkedin.com/in/le-alves/)
+[![Linkedin Badge](https://img.shields.io/badge/-le●alves-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/le-alves/)](https://www.linkedin.com/in/le-alves/)
 [![Gmail Badge](https://img.shields.io/badge/-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lalvesevangelista@gmail.com)](mailto:lalvesevangelista@gmail.com)
 
 ## 📚 Currently Learning
