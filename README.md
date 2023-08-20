@@ -1,4 +1,4 @@
-## Hello my dear friend! <a href='https://www.linkedin.com/in/le-alves/' title="Quack" target="_blank" rel="noreferrer"><img src="https://github.com/Default-nick/Default-nick/assets/67932981/7a8f429c-c00a-49bf-b394-e7b921e499d4" width="40"></a>
+## Hello my dear friend! <a href='https://www.linkedin.com/in/le-alves/' title="Quack" alt="Leandro's LinkedIn" target="_blank" rel="noreferrer"><img src="https://github.com/Default-nick/Default-nick/assets/67932981/7a8f429c-c00a-49bf-b394-e7b921e499d4" width="40"></a>
 
 
 My name is Leandro, 28 years old, and i'm living in São Paulo, Brazil.
@@ -39,8 +39,8 @@ or
 
 ![VisitorsCount](https://vbr.wocr.tk/badge?page_id=67932981-badge-reloaded-visitors&lcolor=F7DF1E&color=FFF&style=for-the-badge&logo=openstreetmap&logoColor=181717)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Default-nick&hide=TeX&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=Default-nick&include_all_commits=true&count_private=true&show_icons=true&line_height=33&theme=radical" alt="Leandro's Github Stats" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Default-nick&layout=compact&hide=jupyter%20notebook,css,html,vhdl&count_private=true&langs_count=8&theme=radical" alt="Leandro's Top Languages" height="200"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Default-nick&count_private=true&theme=radical" alt="Leandro's streaks" height="175"/>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Default-nick&count_private=true&show_icons=true&include_all_commits=true)
-
-
+<br>
