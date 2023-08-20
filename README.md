@@ -4,7 +4,7 @@
 Visitor's count 
   </h3>
 <br>
-<p align="center"><img src="https://profile-counter.glitch.me/{Default-nick}/count.svg" alt="Default-nick :: Visitor's Count" /></p>
+<p align="center">![](https://komarev.com/ghpvc/?username=Default-nick&color=yellow&style=for-the-badge&label=Visitors)</p>
 
 <h3 align="center">
     About 
