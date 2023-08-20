@@ -4,7 +4,7 @@
 Visitor's count 
   </h3>
 <br>
-<p align="center">![](https://komarev.com/ghpvc/?username=Default-nick&color=yellow&style=for-the-badge&label=Visitors)</p>
+<p align="center">![](https://komarev.com/ghpvc/?username=Default-nick&color=yellow)</p>
 
 <h3 align="center">
     About 
