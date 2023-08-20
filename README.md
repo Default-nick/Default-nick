@@ -1,10 +1,5 @@
 <h1 align="center"> Hello there <a title="Quack!" href="https://www.linkedin.com/in/le-alves/" target="_blank">:duck:</a></h1>
 <h3 align="center">
-    
-Visitor's count 
-  </h3>
-<br>
-![](https://hit.yhype.me/github/profile?user_id=Default-nick)
 
 <h3 align="center">
     About 
