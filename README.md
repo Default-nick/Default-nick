@@ -44,8 +44,6 @@ or
 
 ![VisitorsCount](https://vbr.wocr.tk/badge?page_id=67932981-badge-reloaded-visitors&lcolor=F7DF1E&color=FFF&style=for-the-badge&logo=openstreetmap&logoColor=181717)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Default-nick&include_all_commits=true&count_private=true&show_icons=true&line_height=33&theme=radical" alt="Leandro's Github Stats" height="200"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Default-nick&layout=compact&hide=jupyter%20notebook,css,html,vhdl&count_private=true&langs_count=8&theme=radical" alt="Leandro's Top Languages" height="200"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Default-nick&count_private=true&theme=radical" alt="Leandro's streaks" height="175"/>
 
 </div>
