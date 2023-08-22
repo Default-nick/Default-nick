@@ -15,6 +15,7 @@ or
 
 ## 📚 Currently learning
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angularjs&link=https://angular.io)](https://angular.io)
+[![AngularMaterial](https://img.shields.io/badge/-Angular_Material-black?style=for-the-badge&logo=angularjs&logoColor=DD0031&link=https://material.angular.io)](https://material.angular.io)
 
 ## ⚡ Knowledges
 
@@ -32,6 +33,7 @@ or
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&link=https://docs.github.com/pt)](https://docs.github.com/pt)
 [![MaterialUi](https://img.shields.io/badge/-MaterialUi-007FFF?style=for-the-badge&logo=mui&logoColor=white&link=https://mui.com)](https://mui.com)
 [![ChakraUi](https://img.shields.io/badge/-ChakraUi-319795?style=for-the-badge&logo=chakraui&logoColor=white&link=https://chakra-ui.com/getting-started)](https://chakra-ui.com/getting-started)
+[![AngularMaterial](https://img.shields.io/badge/-Angular_Material-black?style=for-the-badge&logo=angularjs&logoColor=DD0031&link=https://material.angular.io)](https://material.angular.io)
 [![MapBox](https://img.shields.io/badge/-MapBox-000000?style=for-the-badge&logo=mapbox&logoColor=white&link=https://docs.mapbox.com)](https://docs.mapbox.com)
 [![GoogleMapsAPI](https://img.shields.io/badge/-GoogleMaps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white&link=https://developers.google.com/maps/documentation/geocoding/start)](https://developers.google.com/maps/documentation/geocoding/start)
 [![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white&link=https://docs.npmjs.com)](https://docs.npmjs.com)
