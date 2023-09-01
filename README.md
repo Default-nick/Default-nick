@@ -1,7 +1,8 @@
 <div align="center">
-  
-## <a href='https://www.linkedin.com/in/le-alves/' title="Quack" alt="Leandro's LinkedIn" target="_blank" rel="noreferrer"><img src="https://github.com/Default-nick/Default-nick/assets/67932981/7a8f429c-c00a-49bf-b394-e7b921e499d4" width="40"></a> Hello my dear friend! <a href='https://www.linkedin.com/in/le-alves/' title="Quack" alt="Leandro's LinkedIn" target="_blank" rel="noreferrer"><img src="https://github.com/Default-nick/Default-nick/assets/67932981/7a8f429c-c00a-49bf-b394-e7b921e499d4" width="40"></a>
 
+<!-- ## <a href='https://www.linkedin.com/in/le-alves/' title="Quack" alt="Leandro's LinkedIn" target="_blank" rel="noreferrer"><img src="https://github.com/Default-nick/Default-nick/assets/67932981/7a8f429c-c00a-49bf-b394-e7b921e499d4" width="40"></a> Hello my dear friend! <a href='https://www.linkedin.com/in/le-alves/' title="Quack" alt="Leandro's LinkedIn" target="_blank" rel="noreferrer"><img src="https://github.com/Default-nick/Default-nick/assets/67932981/7a8f429c-c00a-49bf-b394-e7b921e499d4" width="40"></a> -->
+
+## Hello my dear friend!
 
 My name is Leandro, 28 years old, and i'm living in São Paulo, Brazil.
 I have 2 years of experience in front-end development in the professional scenario.
