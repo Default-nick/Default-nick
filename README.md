@@ -53,7 +53,7 @@ or
 
 ## 🆔 Stats
 
-![VisitorsCount](https://vbr.wocr.tk/badge?page_id=67932981-badge-reloaded-visitors&lcolor=F7DF1E&color=FFF&style=for-the-badge&logo=openstreetmap&logoColor=181717)
+![VisitorsCount](https://vbr.wocr.tk/badge?page_id=67932981-badge-reloaded-visitors&lcolor=F7DF1E&color=FFF&style=for-the-badge&logo=openstreetmap&logoColor=181717&hit=false)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Default-nick&count_private=true&theme=radical" alt="Leandro's streaks" height="175"/>
 
