@@ -17,6 +17,7 @@ or
 ## 📚 Currently learning or Coding 
 
 [![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&link=https://react.dev)](https://react.dev)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&link=https://www.typescriptlang.org)](https://www.typescriptlang.org)
 [![NextJS](https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=next.js&logoColor=white&link=https://nextjs.org/docs)](https://nextjs.org/docs)
 [![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white&link=https://react-hook-form.com/get-started)](https://react-hook-form.com/get-started)
 [![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white&link=https://zod.dev)](https://zod.dev)
