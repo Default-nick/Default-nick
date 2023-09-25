@@ -14,10 +14,13 @@ Feel free to connect with me here:
 or
 [![Gmail Badge](https://img.shields.io/badge/-Click_me-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lalvesevangelista@gmail.com)](mailto:lalvesevangelista@gmail.com)
 
-<!--
-## 📚 Currently learning or Coding 
 
--->
+## 📚 Currently learning or Coding 
+[![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white&link=https://nodejs.org/)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=Express&logoColor=white&link=https://expressjs.com/pt-br/starter/installing.html)](https://expressjs.com/pt-br/starter/installing.html)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&link=https://www.typescriptlang.org)](https://www.typescriptlang.org)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&link=https://www.mongodb.com/docs/)](https://www.mongodb.com/docs/)
+
 ## ⚡ Knowledges
 
 [![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&link=https://react.dev)](https://react.dev)
