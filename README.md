@@ -14,18 +14,10 @@ Feel free to connect with me here:
 or
 [![Gmail Badge](https://img.shields.io/badge/-Click_me-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lalvesevangelista@gmail.com)](mailto:lalvesevangelista@gmail.com)
 
+<!--
 ## 📚 Currently learning or Coding 
 
-[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&link=https://react.dev)](https://react.dev)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&link=https://www.typescriptlang.org)](https://www.typescriptlang.org)
-[![NextJS](https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=next.js&logoColor=white&link=https://nextjs.org/docs)](https://nextjs.org/docs)
-[![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white&link=https://react-hook-form.com/get-started)](https://react-hook-form.com/get-started)
-[![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white&link=https://zod.dev)](https://zod.dev)
-[![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&link=https://www.prisma.io/docs)](https://www.prisma.io/docs)
-[![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white&link=https://socket.io/docs/v4/)](https://socket.io/docs/v4/)
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&link=https://tailwindcss.com/docs/installation)](https://tailwindcss.com/docs/installation)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&link=https://dev.mysql.com/doc/)](https://dev.mysql.com/doc/)
-
+-->
 ## ⚡ Knowledges
 
 [![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&link=https://react.dev)](https://react.dev)
@@ -42,7 +34,13 @@ or
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&link=https://docs.github.com/pt)](https://docs.github.com/pt)
 [![MaterialUi](https://img.shields.io/badge/-MaterialUi-007FFF?style=for-the-badge&logo=mui&logoColor=white&link=https://mui.com)](https://mui.com)
 [![ChakraUi](https://img.shields.io/badge/-ChakraUi-319795?style=for-the-badge&logo=chakraui&logoColor=white&link=https://chakra-ui.com/getting-started)](https://chakra-ui.com/getting-started)
+[![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white&link=https://react-hook-form.com/get-started)](https://react-hook-form.com/get-started)
 [![AngularMaterial](https://img.shields.io/badge/-Angular_Material-black?style=for-the-badge&logo=angularjs&logoColor=ffa726&link=https://material.angular.io)](https://material.angular.io)
+[![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white&link=https://zod.dev)](https://zod.dev)
+[![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&link=https://www.prisma.io/docs)](https://www.prisma.io/docs)
+[![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white&link=https://socket.io/docs/v4/)](https://socket.io/docs/v4/)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&link=https://tailwindcss.com/docs/installation)](https://tailwindcss.com/docs/installation)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&link=https://dev.mysql.com/doc/)](https://dev.mysql.com/doc/)
 [![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white&link=https://eslint.org/docs/latest/)](https://eslint.org/docs/latest/)
 [![MapBox](https://img.shields.io/badge/-MapBox-000000?style=for-the-badge&logo=mapbox&logoColor=white&link=https://docs.mapbox.com)](https://docs.mapbox.com)
 [![GoogleMapsAPI](https://img.shields.io/badge/-GoogleMaps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white&link=https://developers.google.com/maps/documentation/geocoding/start)](https://developers.google.com/maps/documentation/geocoding/start)
