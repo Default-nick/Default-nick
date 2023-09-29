@@ -20,6 +20,7 @@ or
 [![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white&link=https://nodejs.org/)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&link=https://www.typescriptlang.org)](https://www.typescriptlang.org)
 [![Fastify](https://img.shields.io/badge/-Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white&link=https://fastify.dev/docs/v4.7.x/)](https://fastify.dev/docs/v4.7.x/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&link=https://www.postgresql.org/docs/)](https://www.postgresql.org/docs/)
 
 ## ⚡ Knowledges
 
