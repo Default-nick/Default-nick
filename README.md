@@ -17,10 +17,13 @@ or
 
 
 ## 📚 Currently learning or Coding 
+
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&link=https://www.mongodb.com/docs/)](https://www.mongodb.com/docs/)
+[![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white&link=https://expressjs.com/pt-br/)](https://expressjs.com/pt-br/)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&link=https://react.dev)](https://react.dev)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white&link=https://nodejs.org/)](https://nodejs.org/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&link=https://www.typescriptlang.org)](https://www.typescriptlang.org)
-[![Fastify](https://img.shields.io/badge/-Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white&link=https://fastify.dev/docs/v4.7.x/)](https://fastify.dev/docs/v4.7.x/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&link=https://www.postgresql.org/docs/)](https://www.postgresql.org/docs/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&link=https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
 
 ## ⚡ Knowledges
 
@@ -45,6 +48,8 @@ or
 [![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white&link=https://expressjs.com/pt-br/)](https://expressjs.com/pt-br/)
 [![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white&link=https://socket.io/docs/v4/)](https://socket.io/docs/v4/)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&link=https://tailwindcss.com/docs/installation)](https://tailwindcss.com/docs/installation)
+[![Fastify](https://img.shields.io/badge/-Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white&link=https://fastify.dev/docs/v4.7.x/)](https://fastify.dev/docs/v4.7.x/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&link=https://www.postgresql.org/docs/)](https://www.postgresql.org/docs/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&link=https://dev.mysql.com/doc/)](https://dev.mysql.com/doc/)
 [![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white&link=https://eslint.org/docs/latest/)](https://eslint.org/docs/latest/)
 [![MapBox](https://img.shields.io/badge/-MapBox-000000?style=for-the-badge&logo=mapbox&logoColor=white&link=https://docs.mapbox.com)](https://docs.mapbox.com)
