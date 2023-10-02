@@ -22,6 +22,7 @@ or
 [![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white&link=https://expressjs.com/pt-br/)](https://expressjs.com/pt-br/)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&link=https://react.dev)](https://react.dev)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white&link=https://nodejs.org/)](https://nodejs.org/)
+[![JWT](https://img.shields.io/badge/-Json_Web_Tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white&link=https://jwt.io/introduction)](https://jwt.io/introduction)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&link=https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 
