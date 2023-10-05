@@ -25,7 +25,7 @@ or
 [![JWT](https://img.shields.io/badge/-Json_Web_Tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white&link=https://jwt.io/introduction)](https://jwt.io/introduction)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&link=https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&link=https://tailwindcss.com/docs/installation)](https://tailwindcss.com/docs/installation)
-
+[![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white&link=https://reactrouter.com/en/main/start/tutorial)](https://reactrouter.com/en/main/start/tutorial)
 
 ## ⚡ Knowledges
 
@@ -44,6 +44,7 @@ or
 [![MaterialUi](https://img.shields.io/badge/-MaterialUi-007FFF?style=for-the-badge&logo=mui&logoColor=white&link=https://mui.com)](https://mui.com)
 [![ChakraUi](https://img.shields.io/badge/-ChakraUi-319795?style=for-the-badge&logo=chakraui&logoColor=white&link=https://chakra-ui.com/getting-started)](https://chakra-ui.com/getting-started)
 [![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white&link=https://react-hook-form.com/get-started)](https://react-hook-form.com/get-started)
+[![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white&link=https://reactrouter.com/en/main/start/tutorial)](https://reactrouter.com/en/main/start/tutorial)
 [![AngularMaterial](https://img.shields.io/badge/-Angular_Material-black?style=for-the-badge&logo=angularjs&logoColor=ffa726&link=https://material.angular.io)](https://material.angular.io)
 [![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white&link=https://zod.dev)](https://zod.dev)
 [![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&link=https://www.prisma.io/docs)](https://www.prisma.io/docs)
