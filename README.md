@@ -27,7 +27,7 @@ or
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&link=https://tailwindcss.com/docs/installation)](https://tailwindcss.com/docs/installation)
 [![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white&link=https://reactrouter.com/en/main/start/tutorial)](https://reactrouter.com/en/main/start/tutorial)
 [![Redux](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white&link=https://redux-toolkit.js.org/introduction/getting-started)](https://redux-toolkit.js.org/introduction/getting-started)
-[![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&link=https://firebase.google.com/docs)](https://firebase.google.com/docs)
+[![Firebase](https://img.shields.io/badge/-Firebase-1B3A57?style=for-the-badge&logo=firebase&logoColor=FFCA28&link=https://firebase.google.com/docs)](https://firebase.google.com/docs)
 
 ## ⚡ Knowledges
 
