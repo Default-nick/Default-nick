@@ -18,16 +18,10 @@ or
 
 ## 📚 Currently learning or Coding 
 
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&link=https://www.mongodb.com/docs/)](https://www.mongodb.com/docs/)
-[![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white&link=https://expressjs.com/pt-br/)](https://expressjs.com/pt-br/)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&link=https://react.dev)](https://react.dev)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white&link=https://nodejs.org/)](https://nodejs.org/)
-[![JWT](https://img.shields.io/badge/-Json_Web_Tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white&link=https://jwt.io/introduction)](https://jwt.io/introduction)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&link=https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&link=https://tailwindcss.com/docs/installation)](https://tailwindcss.com/docs/installation)
+[![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white&link=https://sass-lang.com/documentation/)](https://sass-lang.com/documentation/)
 [![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white&link=https://reactrouter.com/en/main/start/tutorial)](https://reactrouter.com/en/main/start/tutorial)
-[![Redux](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white&link=https://redux-toolkit.js.org/introduction/getting-started)](https://redux-toolkit.js.org/introduction/getting-started)
-[![Firebase](https://img.shields.io/badge/-Firebase-1B3A57?style=for-the-badge&logo=firebase&logoColor=FFCA28&link=https://firebase.google.com/docs)](https://firebase.google.com/docs)
 
 ## ⚡ Knowledges
 
@@ -39,7 +33,7 @@ or
 [![NextJS](https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=next.js&logoColor=white&link=https://nextjs.org/docs)](https://nextjs.org/docs)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://developer.mozilla.org/en-US/docs/Web/HTML)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://developer.mozilla.org/en-US/docs/Web/CSS)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white&link=https://sass-lang.com/documentation/)](https://sass-lang.com/documentation/)
+[![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white&link=https://sass-lang.com/documentation/)](https://sass-lang.com/documentation/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&link=https://getbootstrap.com)](https://getbootstrap.com)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&link=https://git-scm.com/docs/git/pt_BR)](https://git-scm.com/docs/git/pt_BR)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&link=https://docs.github.com/pt)](https://docs.github.com/pt)
@@ -47,15 +41,18 @@ or
 [![ChakraUi](https://img.shields.io/badge/-ChakraUi-319795?style=for-the-badge&logo=chakraui&logoColor=white&link=https://chakra-ui.com/getting-started)](https://chakra-ui.com/getting-started)
 [![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white&link=https://react-hook-form.com/get-started)](https://react-hook-form.com/get-started)
 [![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white&link=https://reactrouter.com/en/main/start/tutorial)](https://reactrouter.com/en/main/start/tutorial)
+[![Redux](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white&link=https://redux-toolkit.js.org/introduction/getting-started)](https://redux-toolkit.js.org/introduction/getting-started)
 [![AngularMaterial](https://img.shields.io/badge/-Angular_Material-black?style=for-the-badge&logo=angularjs&logoColor=ffa726&link=https://material.angular.io)](https://material.angular.io)
 [![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white&link=https://zod.dev)](https://zod.dev)
 [![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&link=https://www.prisma.io/docs)](https://www.prisma.io/docs)
 [![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white&link=https://expressjs.com/pt-br/)](https://expressjs.com/pt-br/)
 [![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white&link=https://socket.io/docs/v4/)](https://socket.io/docs/v4/)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&link=https://tailwindcss.com/docs/installation)](https://tailwindcss.com/docs/installation)
+[![JWT](https://img.shields.io/badge/-Json_Web_Tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white&link=https://jwt.io/introduction)](https://jwt.io/introduction)
 [![Fastify](https://img.shields.io/badge/-Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white&link=https://fastify.dev/docs/v4.7.x/)](https://fastify.dev/docs/v4.7.x/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&link=https://www.postgresql.org/docs/)](https://www.postgresql.org/docs/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&link=https://dev.mysql.com/doc/)](https://dev.mysql.com/doc/)
+[![Firebase](https://img.shields.io/badge/-Firebase-1B3A57?style=for-the-badge&logo=firebase&logoColor=FFCA28&link=https://firebase.google.com/docs)](https://firebase.google.com/docs)
 [![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white&link=https://eslint.org/docs/latest/)](https://eslint.org/docs/latest/)
 [![MapBox](https://img.shields.io/badge/-MapBox-000000?style=for-the-badge&logo=mapbox&logoColor=white&link=https://docs.mapbox.com)](https://docs.mapbox.com)
 [![GoogleMapsAPI](https://img.shields.io/badge/-GoogleMaps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white&link=https://developers.google.com/maps/documentation/geocoding/start)](https://developers.google.com/maps/documentation/geocoding/start)
