@@ -19,9 +19,11 @@ or
 ## 📚 Currently learning or Coding 
 
 [![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&link=https://react.dev)](https://react.dev)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&link=https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white&link=https://sass-lang.com/documentation/)](https://sass-lang.com/documentation/)
-[![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white&link=https://reactrouter.com/en/main/start/tutorial)](https://reactrouter.com/en/main/start/tutorial)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&link=https://www.typescriptlang.org)](https://www.typescriptlang.org)
+[![MaterialUi](https://img.shields.io/badge/-MaterialUi-007FFF?style=for-the-badge&logo=mui&logoColor=white&link=https://mui.com)](https://mui.com)
+[![NextJS](https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=next.js&logoColor=white&link=https://nextjs.org/docs)](https://nextjs.org/docs)
+[![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white&link=https://react-hook-form.com/get-started)](https://react-hook-form.com/get-started)
+[![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white&link=https://axios-http.com/ptbr/docs/intro)](https://axios-http.com/ptbr/docs/intro)
 
 ## ⚡ Knowledges
 
@@ -44,6 +46,7 @@ or
 [![Redux](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white&link=https://redux-toolkit.js.org/introduction/getting-started)](https://redux-toolkit.js.org/introduction/getting-started)
 [![AngularMaterial](https://img.shields.io/badge/-Angular_Material-black?style=for-the-badge&logo=angularjs&logoColor=ffa726&link=https://material.angular.io)](https://material.angular.io)
 [![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white&link=https://zod.dev)](https://zod.dev)
+[![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white&link=https://axios-http.com/ptbr/docs/intro)](https://axios-http.com/ptbr/docs/intro)
 [![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&link=https://www.prisma.io/docs)](https://www.prisma.io/docs)
 [![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white&link=https://expressjs.com/pt-br/)](https://expressjs.com/pt-br/)
 [![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white&link=https://socket.io/docs/v4/)](https://socket.io/docs/v4/)
