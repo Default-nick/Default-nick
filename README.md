@@ -15,7 +15,7 @@ Feel free to connect with me here:
 or
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lalvesevangelista@gmail.com)](mailto:lalvesevangelista@gmail.com)
 or
-[![Personal Site](https://img.shields.io/badge/-Personal_Site-ffd700?style=flat&logo=GoogleForms&logoColor=black&link=https://lealves.vercel.app)](https://lealves.vercel.app)
+[![Personal Website](https://img.shields.io/badge/-Personal_Website-ffd700?style=flat&logo=GoogleForms&logoColor=black&link=https://lealves.vercel.app)](https://lealves.vercel.app)
 
 
 ## 📚 Currently Learning or Coding 
