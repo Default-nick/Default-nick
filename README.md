@@ -11,9 +11,11 @@ I know, there is much more that I need to learn, but I'm very proud of my progre
 
 Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Click_me-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/le-alves/)](https://www.linkedin.com/in/le-alves/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/le-alves/)](https://www.linkedin.com/in/le-alves/)
 or
-[![Gmail Badge](https://img.shields.io/badge/-Click_me-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lalvesevangelista@gmail.com)](mailto:lalvesevangelista@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lalvesevangelista@gmail.com)](mailto:lalvesevangelista@gmail.com)
+or
+[![Personal Site](https://img.shields.io/badge/-Personal_Site-ffd700?style=flat&logo=GoogleForms&logoColor=black&link=https://lealves.vercel.app)](https://lealves.vercel.app)
 
 
 ## 📚 Currently Learning or Coding 
