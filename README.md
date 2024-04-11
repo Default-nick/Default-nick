@@ -71,8 +71,8 @@ or
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDefault-nick&label=Visitors&labelColor=%23f7df1e&countColor=%23ffffff)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FDefault-nick)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Default-nick&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 <!--
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Default-nick&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ![VisitorsCount](https://vbr.wocr.tk/badge?page_id=67932981-badge-reloaded-visitors&lcolor=F7DF1E&color=FFF&style=for-the-badge&logo=openstreetmap&logoColor=181717)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Default-nick&count_private=true&theme=radical" alt="Leandro's streaks" height="175"/>
