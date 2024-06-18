@@ -9,6 +9,8 @@ I have 3 years of experience in front-end development in the professional scenar
 <br/>
 I know, there is much more that I need to learn, but I'm very proud of my progress.
 
+OBS: You can fork my stuffs, **but please, don't copy!!**
+
 Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/le-alves/)](https://www.linkedin.com/in/le-alves/)
