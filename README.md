@@ -4,8 +4,8 @@
 
 ## Hello my dear friend!
 
-My name is Leandro, 29 years old, and i'm living in São Paulo, Brazil.
-I have 3 years of experience in front-end development in the professional scenario.
+My name is Leandro, 30 years old, and i'm living in São Paulo, Brazil.
+I have 4 years of experience in front-end development in the professional scenario.
 <br/>
 I know, there is much more that I need to learn, but I'm very proud of my progress.
 
