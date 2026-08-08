@@ -2,8 +2,8 @@
 
 ## <a href='https://www.linkedin.com/in/le-alves/' title="Quack" alt="Leandro's LinkedIn" target="_blank" rel="noreferrer"><img src="https://github.com/Default-nick/Default-nick/assets/67932981/7a8f429c-c00a-49bf-b394-e7b921e499d4" width="40"></a> Hello my dear friend! <a href='https://www.linkedin.com/in/le-alves/' title="Quack" alt="Leandro's LinkedIn" target="_blank" rel="noreferrer"><img src="https://github.com/Default-nick/Default-nick/assets/67932981/7a8f429c-c00a-49bf-b394-e7b921e499d4" width="40"></a> 
 
-My name is Leandro, 30 years old, and i'm living in São Paulo, Brazil.
-I have 5 years of experience in front-end development in the professional scenario.
+My name is Leandro, <!-- AGE -->30<!-- /AGE --> years old, and i'm living in São Paulo, Brazil.
+I have <!-- EXPERIENCE -->5<!-- /EXPERIENCE --> years of experience in front-end development in the professional scenario.
 <br/>
 I know, there is much more that I need to learn, but I'm very proud of my progress.
 
