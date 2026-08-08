@@ -1,6 +1,6 @@
 const fs = require('node:fs');
 
-const birthDate = new Date('1994-10-01');
+const birthDate = new Date('1992-10-01');
 const careerStartDate = new Date('2021-03-01');
 
 const now = new Date();
